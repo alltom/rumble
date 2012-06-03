@@ -1,0 +1,5 @@
+# csocpe rules
+cscope.*
+
+# builds are boring
+*.o
