@@ -1,0 +1,10 @@
+{
+	"name" : "Rumble",
+	"version" : "0.1",
+	"manifest_version" : 2,
+	"description" : "Rumble proxy integration",
+	"background" : {
+		"scripts": ["background.js"]
+	},
+	"permissions" : ["tabs", "experimental", "webNavigation", "webRequest", "webRequestBlocking", "<all_urls>"]
+}
