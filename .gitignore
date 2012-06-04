@@ -3,3 +3,14 @@ cscope.*
 
 # builds are boring
 *.o
+proxy/privoxy/GNUmakefile
+proxy/privoxy/autom4te.cache/
+proxy/privoxy/config.h
+proxy/privoxy/config.h.in
+proxy/privoxy/config.log
+proxy/privoxy/config.status
+proxy/privoxy/configure
+proxy/privoxy/default.action
+proxy/privoxy/doc/source/ldp.dsl
+proxy/privoxy/logfile
+proxy/privoxy/privoxy
