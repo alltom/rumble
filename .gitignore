@@ -3,6 +3,8 @@ cscope.*
 
 # builds are boring
 *.o
+*.d
+
 proxy/privoxy/GNUmakefile
 proxy/privoxy/autom4te.cache/
 proxy/privoxy/config.h
